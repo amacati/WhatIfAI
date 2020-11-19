@@ -76,4 +76,11 @@ The model parameters were determined by cross validation. We created a dictionar
 
 ## Video 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AChsZ0fCOjk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=AChsZ0fCOjk&feature=youtu.be">
+     <img 
+      src="https://img.youtube.com/vi/AChsZ0fCOjk/0.jpg" 
+      alt="what_if.ai" 
+      style="width:100%;">
+      </a>
+    </div>
