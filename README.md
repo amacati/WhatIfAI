@@ -72,3 +72,7 @@ The model parameters were determined by cross validation. We created a dictionar
 - Alexander Griessel
 - Aron Endres
 - Maximilian Putz
+
+## Video 
+
+The final project video is available [here](https://www.youtube.com/watch?v=AChsZ0fCOjk&feature=youtu.be).
