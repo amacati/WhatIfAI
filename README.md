@@ -76,8 +76,8 @@ The model parameters were determined by cross validation. We created a dictionar
 
 ## Video 
 
-To advertise our work, we were also supposed to make a video about the whole project. It is available on YouTube and 
-definitely worth a look!
+To advertise our work, we also made a video about the whole project. It is available on YouTube and definitely worth a 
+look!
 
 <div align="center">
     <a href="https://www.youtube.com/watch?v=AChsZ0fCOjk&feature=youtu.be">
