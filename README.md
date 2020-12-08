@@ -87,9 +87,9 @@ definitely worth a look!
         style="width:100%;">
     </a>
 </div>
-  
-  
-  
+
+<br/><br/>
+<br/><br/>
 **Update:** Our video has won the prize as best video of the class!
   
 <div align="center">
