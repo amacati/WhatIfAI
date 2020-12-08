@@ -89,10 +89,9 @@ definitely worth a look!
 </div>
 
 <br/><br/>
-<br/><br/>
-**Update:** Our video has won the prize as best video of the class!
   
 <div align="center">
+**Update:** Our video has won the prize as best video of the class!
 
 ![alt text](/documentation/misc/img/AMIJuryAwardSmall.jpg "Best Video Award 2020")
 
