@@ -12,17 +12,17 @@ README of WhatIfAI for the 2020 Applied Machine Intelligence lecture at TUM.
 ## Table of contents
 
 - [README - What If AI](#readme---what-if-ai)
-  * [Table of contents](#table-of-contents)
-  * [Short project description](#short-project-description)
-  * [Requirements](#requirements)
-  * [How to use](#how-to-use)
-  * [File structure](#file-structure)
-    + [Data sets](#data-sets)
-    + [Documentation](#documentation)
-    + [Code base](#code-base)
-    + [Model Parameters](#model-parameters)
-  * [Project members](#project-members)
-  * [Video](#video)
+  - [Table of contents](#table-of-contents)
+  - [Short project description](#short-project-description)
+  - [Requirements](#requirements)
+  - [How to use](#how-to-use)
+  - [File structure](#file-structure)
+    - [Data sets](#data-sets)
+    - [Documentation](#documentation)
+    - [Code base](#code-base)
+    - [Model Parameters](#model-parameters)
+  - [Project members](#project-members)
+  - [Video](#video)
 
 ## Short project description
 This project aims to quantify the impact that the Covid-19 pandemic has on the global economy, utilising machine learning. One of the main limitations in machine learning is the modelling of unsampled regions in the feature space. Furthermore, models learned during the training process are only valid in the context of unchanged underlying data generation processes. Since the Covid-19 pandemic fundamentally changed the way our society operates, and we don't have any samples of a global pandemic of smaller and/or greater size, it is impossible to directly model the impact of the virus on different branches of the economy. Instead, we aim to model the economy without the pandemic ensuing from January 2020 on. The impact of the pandemic can then be measured as the difference of the predicted courses without Covid-19, and the actual, observed outcomes. The models and its predictions are made accessible with an interactive web interface.
@@ -87,7 +87,8 @@ definitely worth a look!
         style="width:100%;">
     </a>
 </div>
-> **_Update:_** Our video has won the prize as best video of the class!
+
+**Update:** Our video has won the prize as best video of the class!
 
 <div align="center">
 
