@@ -87,9 +87,11 @@ definitely worth a look!
         style="width:100%;">
     </a>
 </div>
-
+  
+  
+  
 **Update:** Our video has won the prize as best video of the class!
-
+  
 <div align="center">
 
 ![alt text](/documentation/misc/img/AMIJuryAwardSmall.jpg "Best Video Award 2020")
