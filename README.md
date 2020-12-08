@@ -6,7 +6,7 @@
 
 
 
-README for group 11 of the 2020 Applied Machine Intelligence lecture at TUM. 
+README of WhatIfAI for the 2020 Applied Machine Intelligence lecture at TUM. 
 </div>
 
 ## Table of contents
@@ -76,11 +76,19 @@ The model parameters were determined by cross validation. We created a dictionar
 
 ## Video 
 
+Our video has won the prize as best video of the class! It is available on YouTube.
+
 <div align="center">
-      <a href="https://www.youtube.com/watch?v=AChsZ0fCOjk&feature=youtu.be">
-     <img 
-      src="https://img.youtube.com/vi/AChsZ0fCOjk/0.jpg" 
-      alt="what_if.ai" 
-      style="width:100%;">
-      </a>
-    </div>
+    <a href="https://www.youtube.com/watch?v=AChsZ0fCOjk&feature=youtu.be">
+    <img 
+        src="https://img.youtube.com/vi/AChsZ0fCOjk/0.jpg" 
+        alt="what_if.ai" 
+        style="width:100%;">
+    </a>
+</div>
+
+<div align="center">
+
+![alt text](/documentation/misc/img/AMIJuryAward.jpg "Best Video Award 2020")
+
+</div>
