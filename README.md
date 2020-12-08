@@ -76,7 +76,8 @@ The model parameters were determined by cross validation. We created a dictionar
 
 ## Video 
 
-Our video has won the prize as best video of the class! It is available on YouTube.
+To advertise our work, we were also supposed to make a video about the whole project. It is available on YouTube and 
+definitely worth a look!
 
 <div align="center">
     <a href="https://www.youtube.com/watch?v=AChsZ0fCOjk&feature=youtu.be">
@@ -86,9 +87,10 @@ Our video has won the prize as best video of the class! It is available on YouTu
         style="width:100%;">
     </a>
 </div>
+> **_Update:_** Our video has won the prize as best video of the class!
 
 <div align="center">
 
-![alt text](/documentation/misc/img/AMIJuryAward.jpg "Best Video Award 2020")
+![alt text](/documentation/misc/img/AMIJuryAwardSmall.jpg "Best Video Award 2020")
 
 </div>
